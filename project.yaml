@@ -29,7 +29,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://thanos.io/"
 
-artwork: "https://landscape.cncf.io/logos/thanos.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/thanos"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
